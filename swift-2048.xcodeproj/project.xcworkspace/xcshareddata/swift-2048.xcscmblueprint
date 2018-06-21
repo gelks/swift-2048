@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2F39232C8568306AF645A5C39002B96F6B5FF222",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2F39232C8568306AF645A5C39002B96F6B5FF222" : 9223372036854775807,
+    "DA9E1E6945E7A1D92509FA571DDF7B2AA75D234B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "54FDA905-1060-4D72-95E3-1D9DBD09547B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2F39232C8568306AF645A5C39002B96F6B5FF222" : "swift-2048\/",
+    "DA9E1E6945E7A1D92509FA571DDF7B2AA75D234B" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "swift-2048",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "swift-2048.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JoelMarcey\/swift-2048",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2F39232C8568306AF645A5C39002B96F6B5FF222"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bitbucket.org:bibliotech\/bibliotech.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DA9E1E6945E7A1D92509FA571DDF7B2AA75D234B"
+    }
+  ]
+}
